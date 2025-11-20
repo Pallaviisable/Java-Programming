@@ -22,3 +22,4 @@ All programs are written with clean, readable, and well-commented code, suitable
 ├── 📂 03-PROBLEMS ON DIGITS
 └── 📂 04-PATTERN PRINTING
 ```
+Note: This is the current folder structure. The repository will continue to grow with more topics, programs, and advanced concepts over time.
