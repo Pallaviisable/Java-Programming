@@ -11,7 +11,7 @@ All programs are written with clean, readable, and well-commented code, suitable
 
 ## 📂 Folder Structure
 ```bash
-📦 C-Programming
+📦 Java-Programming
 ├── 📄 README.md
 ├── 📂 01-PROBLEMS ON NUMBER
 ├── 📂 02-PROBLEMS ON ARRAY
